@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0;
+}
+
+html {
+    font-family: sans-serif;
+    height: 100%;
+}
+
+body {
+    overflow: hidden;
+    height: inherit;
+}
+
+canvas {
+    border: 1px solid black;
+}
